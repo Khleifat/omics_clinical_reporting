@@ -30,7 +30,7 @@ The tool generates two reports, one is aimed for clinical use and the second aim
 
 ## Operation
 
-Omics-ReportR requires a VCF file that includes all the variants that should be genotyped (Flow chart).
+Omics-ReportR requires a SQLITE table that includes all the variants that should be genotyped (Flow chart).
 
 #Flow Chart
 
