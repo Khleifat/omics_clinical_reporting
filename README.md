@@ -57,6 +57,7 @@ Omics-ReportR requires a SQLITE table that includes all the variants that should
 genomics data simplification, which genes are overexpressed, how much of a gene is overexpressed (how the cohort respond to a certain treatment regarding this gene), In the gene level summary of the most pathogenic variants identified, each column in the dynamic table can be sorted and searched dynamically, and all data used by the app is available for download in tab-delimited files. By default, allele frequency is reported based on dbVar and gnomAD genomes and exomes. 
 The tools provide Link to local genetic counselor, link to clinical trials related to the disease and the gene of interest and five most recent publications about the identified gene.
 
+# Multiomic Risk Score
 
 <img width="596" alt="Screenshot 2021-06-02 at 19 10 16" src="https://user-images.githubusercontent.com/41301333/120531179-400ddc80-c3d6-11eb-8c55-7d76e646c968.png"> 
 
